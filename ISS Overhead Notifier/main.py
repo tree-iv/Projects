@@ -1,5 +1,3 @@
-"""Email alerts when the ISS is close to VIT Vellore during nighttime."""
-
 from __future__ import annotations
 
 import os
